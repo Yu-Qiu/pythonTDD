@@ -1,0 +1,14 @@
+
+$5 + 10CHF = $10 if the rate is 2:1
+
+DONE $5 * 2 = $10
+
+Make 'amount' private
+
+DONE Dollar side-effects (mutable?)
+
+Renommer test-money
+
+money rounding
+
+__mul__
