@@ -11,3 +11,7 @@ class TestDollar(unittest.TestCase):
         self.assertEquals(10, ten.amount)
         ten = five * 3
         self.assertEquals(15, ten.amount)
+
+    def test_equality(self):
+        self.assertEqual(Dollar(5), Dollar(5))
+        self.assertNotEqual(Dollar(5), Dollar(6))

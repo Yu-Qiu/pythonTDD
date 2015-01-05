@@ -11,4 +11,8 @@ Renommer test-money
 
 money rounding
 
-__mul__
+DONE __mul__
+
+DONE __eq__
+__eq__ None
+__eq__ Object
