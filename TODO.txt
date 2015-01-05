@@ -21,5 +21,6 @@ DONE 5CHF * 2 = 10CHF
 
 Remove Dollar/Franc duplication
 
-common __ep__
+DONE common __eq__
 common __mul__
+currency
