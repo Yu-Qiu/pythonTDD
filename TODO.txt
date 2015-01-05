@@ -3,7 +3,7 @@ $5 + 10CHF = $10 if the rate is 2:1
 
 DONE $5 * 2 = $10
 
-Make 'amount' private
+DONE Make 'amount' private
 
 DONE Dollar side-effects (mutable?)
 
@@ -16,3 +16,10 @@ DONE __mul__
 DONE __eq__
 __eq__ None
 __eq__ Object
+
+DONE 5CHF * 2 = 10CHF
+
+Remove Dollar/Franc duplication
+
+common __ep__
+common __mul__
